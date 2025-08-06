@@ -20,6 +20,6 @@ HTML | CSS | JavaScript | Firebase Hosting
 - `public/`, `images/` – Assets for UI
 - `firebase.json` – For Firebase deployment
 
-▶️ Watch Demo(https://youtu.be/5tiVaUV5Xag)
+[▶️ Watch Demo](https://youtu.be/5tiVaUV5Xag)
 
 👨‍💻 Feel free to clone, customize, and improve this quiz platform for your own learning or academic use!
